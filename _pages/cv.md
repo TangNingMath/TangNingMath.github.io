@@ -13,10 +13,10 @@ Education
 ======
 section{Education}
 
-* Senior School，at Tianjin No.1 Middle School, Tianjin,China, 2015-2018
-* Bachelor of Mathematics at Zhejiang University GitHub, Hangzhou,China, 2018-present
-  * GPA：4.0、4.0 rank:1/20 in Chu Kochen Honors College
-  * Exchange Student(Remote) at University of California, Berkeley, California, United States, 2021.01-present
+* Senior School, at Tianjin No.1 Middle School, Tianjin, China, 2015-2018
+* Bachelor of Mathematics at Zhejiang University, Hangzhou, China, 2018-present
+  * GPA：4.0/4.0 rank:1/20 in Chu Kochen Honors College
+* Exchange Student(Remote) at University of California, Berkeley, California, United States, 2021.01-present
 
 Awards
 ======
@@ -52,7 +52,4 @@ Courses Taken
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

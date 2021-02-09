@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 This is Ning Tang's homepage.
+
+Updated on Feb 9, 2021.

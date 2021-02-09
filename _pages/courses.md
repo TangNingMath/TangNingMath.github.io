@@ -7,7 +7,7 @@ redirect_from:
   - /courses
 ---
 
-###Advanced Mathematics courses taken at Zhejiang University
+### Advanced Mathematics courses taken at Zhejiang University
 
 1. **Point Set Topology**(88/100):
    - junior level, Munkres’s Topology
@@ -19,7 +19,7 @@ redirect_from:
    - junior level, Fang Daoyuan's Ordinary differential equation(a Chinese textbook)
    - including how to solve the $1^{st}$ order and $n^{th}$ order linear ODE and systems of ODEs, Gronwall inequality, local existence and uniqueness theorems(Peano, Picard, Cauchy), Laplace Transforms, Lyapunov stability, Phase diagram.
 4. **Abstract Algebra**(95/100):
-   * junior level, Artin's Algebra, 
+   * junior level, Artin's Algebra 
    * covering chapter2, 6.7-6.11, 7, 11, 12, 14.1-14.5, 15, including groups, Sylow theorems, rings, modules, fields.
 5. **Complex Variable Functions**(92/100): 
    - junior level, lecture notes

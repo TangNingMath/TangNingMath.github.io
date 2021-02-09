@@ -13,8 +13,8 @@ Education
 ======
 * Senior School, **Tianjin No.1 Middle School**, Tianjin, China, **2015-2018**
 * Bachelor of Mathematics, **Zhejiang University**, Hangzhou, China, **2018-present**
-  * GPA：4.0/4.0 
-  * rank:1/20 in Chu Kochen Honor College
+  * GPA: 4.0/4.0 
+  * rank: 1/20 in Chu Kochen Honor College
 * Exchange Student(Remote), **University of California, Berkeley**, California, United States, **2021.01-present**
 
 Awards

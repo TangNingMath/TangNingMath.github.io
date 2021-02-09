@@ -10,4 +10,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://tangningmath.github.io/files/basic_topology.pdf)
+[Download notes here](http://tangningmath.github.io/files/basic_topology.pdf)

@@ -38,5 +38,8 @@ Computer Skills
   * Latex
   * C
   * C++
-
+  
+Language
+======
+Chinese(mothertounge), English(fluent)(TOFEL 99)
   

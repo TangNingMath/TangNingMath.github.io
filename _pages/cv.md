@@ -43,5 +43,5 @@ Computer Skills
   
 Language
 ======
-Chinese(mothertounge), English(fluent)(TOFEL 107)
+Chinese(mothertounge), English(fluent)(TOFEL 107)(Speaking 23)
   

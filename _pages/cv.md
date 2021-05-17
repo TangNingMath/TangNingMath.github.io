@@ -21,6 +21,8 @@ Education
 
 Awards
 ======
+* Spring 2021: The final of the 12th National Mathematics Competition for College Students
+  * First Prize
 * Fall 2020: The Chinese Mathematics Competitions
   * First Prize 
   * The first place at the provincial level

@@ -45,5 +45,10 @@ Computer Skills
   
 Language
 ======
-Chinese(mothertounge), English(fluent)(TOFEL 107)(Speaking 23)
+Chinese(mothertounge), English(fluent)(TOFEL 107)(Speaking 23), French(Basic)
+
+Miscellaneous Experience
+======
+SMS Summer School 2021 - MICROLOCAL ANALYSIS: THEORY AND APPLICATIONS
+http://crm.umontreal.ca/sms2021/en/home-2/
   

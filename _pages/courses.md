@@ -59,11 +59,11 @@ redirect_from:
     - including Hurwitz formula, Weyl's lemma, harmonic differentials, intersection theory on compact surfaces, bilinear relations, divisors, Riemann Roch theorem, Abel's theorem.
     
 ### Advanced Mathematics Courses taken at Berkeley
-1. **Partial Differential Equations**(taken this semster):
+1. **Partial Differential Equations**(A+):
     - graduate level, lecture notes
-    - including Sobolev spaces, Gagliardo--Nirenberg--Sobolev and Morrey inequalties, Calculus of variations, De Giorgi-Nash-Moser Theorem, Oscillatory integrals, Pseudodifferential operators, Cauchy problem for hyperbolic equations via energy estimates, Parametrix construction for hyperbolic equations and applications.
-2. **Special Topics in Mathematics**(taken this semster):
+    - including Sobolev spaces, Gagliardo--Nirenberg--Sobolev and Morrey inequalties, Calculus of variations, Oscillatory integrals, Pseudodifferential operators,  Parametrix construction for hyperbolic equations and applications.
+2. **Special Topics in Mathematics**(A):
     - senior level, lecture notes
-    - including calculus of variation, optimal control theory.
+    - including calculus of variation, optimal control theory, dynamic programming.
   
  
